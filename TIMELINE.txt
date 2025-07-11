@@ -2,4 +2,4 @@ BELLO FAMILY APP - A INFORMATION AND COMMUNICATION APP
 
 1.INSTALL REACT NATIVE PROJECT FILE 
 ->npx @react-native-community/cli@latest init .
-2.
+2.test
